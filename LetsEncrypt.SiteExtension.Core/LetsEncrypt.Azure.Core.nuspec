@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>letsencrypt.azure.core</id>
+    <id>letsencrypt.azure.core.untested</id>
     <title>Azure Let's Encrypt</title>
     <version>1.0.6</version>
     <authors>SJKP</authors>
